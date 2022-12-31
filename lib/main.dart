@@ -1,4 +1,4 @@
-import 'package:every_widget/pages/material_banner_page.dart';
+import 'package:every_widget/pages/preferred_size_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -18,7 +18,7 @@ class App extends StatelessWidget {
         brightness: Brightness.light,
       ),
       themeMode: ThemeMode.dark,
-      home: const MaterialBannerPage(),
+      home: const PreferredSizePage(),
     );
   }
 }
