@@ -1,4 +1,4 @@
-import 'package:every_widget/pages/preferred_size_page.dart';
+import 'package:every_widget/pages/pages.dart';
 import 'package:flutter/material.dart';
 
 void main() {
