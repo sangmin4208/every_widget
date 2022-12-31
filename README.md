@@ -4,3 +4,4 @@
 블로그를 참고해주세요. [https://nacho-develop.tistory.com/]
 
 - [x] MaterialBanner
+- [x] PreferredSize
